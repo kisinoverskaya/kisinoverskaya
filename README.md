@@ -1,4 +1,7 @@
 ### Hi there 👋
+Junior JS developer. 
+In love with travelling, cooking and learning something new
+
 
 <!--
 **kisinoverskaya/kisinoverskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
