@@ -1,6 +1,5 @@
-### Hi there 👋
-Junior JS developer. 
-In love with travelling, cooking and learning something new
+### Hi there 👋 I am Kristina - frontend developer. 
+Interested in developing, travelling and cooking.
 
 
 <!--
