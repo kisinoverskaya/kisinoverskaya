@@ -2,8 +2,11 @@
 Interested in developing, travelling and cooking.
 
 Фронтенд: JS, React, Redux, HTML6, CSS3
+<br/>
 Бекенд: Node.js, Express, CORS, WebSockets
+<br/>
 Базы данных: PostgreSQL, Sequelize ORM
+<br/>
 A также: Jest, Docker, REST
 
 
