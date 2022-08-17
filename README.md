@@ -1,6 +1,11 @@
 ### Hi there 👋 I am Kristina - frontend developer. 
 Interested in developing, travelling and cooking.
 
+Фронтенд: JS, React, Redux, HTML6, CSS3
+Бекенд: Node.js, Express, CORS, WebSockets
+Базы данных: PostgreSQL, Sequelize ORM
+A также: Jest, Docker, REST
+
 
 <!--
 **kisinoverskaya/kisinoverskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
