@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Kristina - frontend developer. 
-Interested in developing, travelling and cooking.
+
 
 Фронтенд: JS, React, Redux, HTML5, CSS3
 <br/>
-Бекенд: Node.js, Express, CORS, WebSockets
+Бекенд: Node.js, Express
 <br/>
 Базы данных: PostgreSQL, Sequelize ORM
 <br/>
